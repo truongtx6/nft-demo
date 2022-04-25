@@ -9,6 +9,7 @@ import NE7 from "../../assets/img/ne7-min.png";
 import NE8 from "../../assets/img/ne8-min.png";
 import NE9 from "../../assets/img/ne9-min.png";
 import Slider from "react-slick";
+import "./index.css";
 
 function SliderList() {
   var settings = {
